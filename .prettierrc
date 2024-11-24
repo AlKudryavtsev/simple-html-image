@@ -1,0 +1,15 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 150,
+  "semi": true,
+  "importOrder": ["^components/(.*)$", "^[./]" ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3"
+  }
+}
